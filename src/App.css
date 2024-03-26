@@ -1,0 +1,31 @@
+.rey{
+  color: #ffffff;
+ 
+  margin-bottom: 50px;
+  margin-top: 20px;
+  padding: 2px 15px 20px;
+  width: 47% ;
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+img{
+  width: 100%;
+
+}
+
+.cajaCentral{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  width: 50%;
+  margin: auto;
+  font-size: 20px;
+}
+
+.btn-comprar{
+  border-radius: 5px;
+  border-color: black;
+  border: 5 px;
+  margin:15px ;
+}
